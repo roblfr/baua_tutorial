@@ -1,0 +1,5 @@
+1)	Isabel	Organisationskunde	80
+2)	Anita	Psychologie	90
+3)	Armin	Medien	87
+4)	Rüdiger	Biologie	85
+5)	Beatrice	Sozialkunde	75
